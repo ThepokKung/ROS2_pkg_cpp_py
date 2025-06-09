@@ -8,8 +8,11 @@
   With ament_cmake, you can create C++ header files and source codes and set up the build by configuring the auto-generated "CMakeLists.txt". However, if you want this package to work with Python code, you will need to add more codes to the "CMakeLists.txt". This looks a bit cumbersome. But we just do it for you, so you don't have to !!
 
 ## Repository's Description & Instruction
-This is a ROS2 package template that can build both C++ and Python.
+This is a ROS2 package template that can build both C++ and Python. Compatible with ROS2 Jazzy.
 
+**Requirements:**
+- ROS2 Jazzy
+- C++17 compiler support
 
 Step 1 : Download the repository to your machine
 ```
